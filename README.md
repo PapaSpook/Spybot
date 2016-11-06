@@ -1,0 +1,2 @@
+# Spybot
+A Discord Bot.
